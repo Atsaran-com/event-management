@@ -1,1 +1,1 @@
-# event-management
+# EventMarketing
